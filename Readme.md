@@ -28,8 +28,9 @@ To run the code in this repository:
 3. Compile and run the code:
     ```bash
     g++ program.cpp
-    for windows ./a.exe
-    for linux ./a.out
+    for windows ./a.out
+    for linux/macOS ./a.exe
+
     ```
 
 ## Daily Progress
