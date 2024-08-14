@@ -65,5 +65,5 @@ Here are some resources I'm using to learn DSA:
 
 - [GeeksforGeeks DSA Tutorials](https://www.geeksforgeeks.org/data-structures/)
 - [LeetCode](https://leetcode.com/)
-- [C++ full tutorial from Apna college](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [C++ full course from Apna college](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [HackerRank](https://www.hackerrank.com/domains/data-structures)
