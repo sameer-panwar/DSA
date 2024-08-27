@@ -55,7 +55,7 @@ I'll be updating this section with my daily learning progress.
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
 
--Arrays
+-Array
 
 
 
