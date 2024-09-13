@@ -46,78 +46,87 @@ I'll be updating this section with my daily learning progress.
 - Solved some basic questions from the tutoiral.
 
 ### Day 3: 2024-09-04
--Explored some of the Sorting Algorithms in Array.
--bubble sort & Selection sort.
+- Explored some of the Sorting Algorithms in Array.
+- bubble sort & Selection sort.
 
 ### Day 4: 2024-09-05
--Practiced questions on Bubble sort and Selection sort.
--Also learned Insertion Sort.
+- Practiced questions on Bubble sort and Selection sort.
+- Also learned Insertion Sort.
 
 ### Day 5: 2024-09-06
--Created a Leetcode profile.
--Solved 2 Leetcode questions.
+- Created a Leetcode profile.
+- Solved 2 Leetcode questions.
 
 ### Day 6: 2024-09-07
--Solved 2-3 more easy Questions in Leetcode.
+- Solved 2-3 more easy Questions in Leetcode.
 
 ### Day 7: 2024-09-14
--started a new topic hashing.
--Learned to implement ordered map and Unordered map.
+- started a new topic hashing.
+- Learned to implement ordered map and Unordered map.
 
 ### Day 8: 2024-09-15
--solved 3 easy questions in Leetcode on the topic Array and Hash Table.
+- solved 3 easy questions in Leetcode on the topic Array and Hash Table.
 
 ### Day 9: 2024-09-16
--started learning vectors in c++.
--vectors vs arrays.
+- started learning vectors in c++.
+- vectors vs arrays.
 
 ### Day 10: 2024-09-18
--solved 2 easy questions in Leetcode.
--finally solved questions that were left because of the topic vector.
+- solved 2 easy questions in Leetcode.
+- finally solved questions that were left because of the topic vector.
 
 ### Day 11: 2024-10-02
--learned array vs character array in c++.
--solved 2 easy questions in Leetcode.
+- learned array vs character array in c++.
+- solved 2 easy questions in Leetcode.
 
 ### Day 12: 2024-10-05
--learned pointers and references.
--implenented some pointer questions.
+- learned pointers and references.
+- implenented some pointer questions.
 
 ### Day 13: 2024-10-07
--started learning String in c++.
--got to know about new methods that i havent used i.e transform, sort.
+- started learning String in c++.
+- got to know about new methods that i havent used i.e transform, sort.
 
 ### Day 14: 2024-10-08
--implemented string questions and learn core concepts.
+- implemented string questions and learn core concepts.
 
 ### Day 15: 2024-10-09
--learned about sstream library.
-   # need to practice more about it.
+- learned about sstream library.
+   #### need to practice more about it.
 
 ### Day 16: 2024-10-10
--solved 2 easy questions on string.
--tried to attempt 1 medium question of string but failed to succeed.
+- solved 2 easy questions on string.
+- tried to attempt 1 medium question of string but failed to succeed.
 
 ### Day 17: 2024-10-11
--solved 2 more easy questions on string.
+- solved 2 more easy questions on string.
 
 ### Day 18: 2024-10-12
--solved 2 easy questions on Array and 1 on string.
+- solved 2 easy questions on Array and 1 on string.
 
 ### Day 19: 2024-10-13
--started learning Bit manipulation.
--learned GETBIT, SETBIT, CLEARBIT, UPDATEBIT.
--implemented some questions based on bits like
-    -count the no of setbits(1) in a number.
-    -check whether a number is a power of 2.
-    -make all possible subsets of an array.
+- started learning Bit manipulation.
+- learned GETBIT, SETBIT, CLEARBIT, UPDATEBIT.
+- implemented some questions based on bits like
+    - count the no of setbits(1) in a number.
+    - check whether a number is a power of 2.
+    - make all possible subsets of an array.
 
 
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
 
--Array
+- Array
+- Searching Algorithms
+    - Linear
+    - Binary
+- Sorting Algorithms
+    - Bubble
+    - Selection
+    - Insertion 
+- String
+
 
 
 
