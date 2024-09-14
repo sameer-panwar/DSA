@@ -112,6 +112,9 @@ I'll be updating this section with my daily learning progress.
     - check whether a number is a power of 2.
     - make all possible subsets of an array.
 
+### Day 20: 2024-10-14
+- solved 3 easy  questions of Bit manipulation.
+- solved 1 Medium question of Bit manipulation.
 
 ## Topics Covered
 
