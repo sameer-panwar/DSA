@@ -116,6 +116,12 @@ I'll be updating this section with my daily learning progress.
 - solved 3 easy  questions of Bit manipulation.
 - solved 1 Medium question of Bit manipulation.
 
+### Day 21: 2024-10-17
+- solved 2 medium questions on strings.
+- learned Inclusive-exclusive principle, GCD algorithm.
+
+
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
