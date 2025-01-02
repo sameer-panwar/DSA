@@ -122,6 +122,12 @@ I'll be updating this section with my daily learning progress.
 - solved 2 medium questions on strings.
 - learned Inclusive-exclusive principle, GCD algorithm.
 
+## this year i will be learning and solving DSA questions consistently. no matter what.
+
+### Day 22: 2025-01-01
+- solved a medium type question.
+- 3 sum closest
+
 
 
 ## Topics Covered
