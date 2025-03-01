@@ -2,9 +2,11 @@
 
 Welcome to my Data Structures and Algorithms (DSA) learning repository! 
 
+
 ## Overview
 
 This repository is dedicated to documenting my journey as I learn Data Structures and Algorithms. I'll be posting my daily progress, code implementations, and explanations of various DSA concepts as I explore them.
+
 
 ## Table of Contents
 
@@ -119,6 +121,12 @@ I'll be updating this section with my daily learning progress.
 ### Day 21: 2024-10-17
 - solved 2 medium questions on strings.
 - learned Inclusive-exclusive principle, GCD algorithm.
+
+## this year i will be learning and solving DSA questions consistently. no matter what.
+
+### Day 22: 2025-01-01
+- solved a medium type question.
+- 3 sum closest
 
 
 
