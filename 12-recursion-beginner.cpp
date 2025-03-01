@@ -93,13 +93,31 @@ using namespace std;
 //     return 0;
 // }
 
-int fibanocci(int n){
-    if(n==0)return;
 
-    return fibanocci(0)
+
+
+
+//fibanocci series
+// int fib(int n){
+//     if(n==0 || n==1){
+//         return n;
+//     }
+
+//     return fib(n-1) + fib(n-2);
+// }
+
+
+int power(int n, int p){
+    if(p==0)return 1;
+
+    return n*power(n, p-1);
 }
 
 int main(){
-
+    int n;
+    cin>>n;
+    int p;
+    cin>>p;
+    cout<<power(n,p)<<endl;
     return 0;
 }
