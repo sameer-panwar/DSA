@@ -76,6 +76,7 @@ I'll be updating this section with my daily learning progress.
 ### Day 10: 2024-09-18
 - solved 2 easy questions in Leetcode.
 - finally solved questions that were left because of the topic vector.
+B
 
 ### Day 11: 2024-10-02
 - learned array vs character array in c++.
@@ -128,7 +129,16 @@ I'll be updating this section with my daily learning progress.
 - solved a medium type question.
 - 3 sum closest
 
+### Day 23: 2025-02-28
+- learned and implemented merge and quick sort.
 
+### Day 24: 2025-03-01
+- today, i learned Linked list.
+- Insertion at head, insertion at tail, searching.
+
+### Day 25: 2025-03-02
+- deletion in Linked list
+- reverse a linkded list
 
 ## Topics Covered
 
@@ -142,7 +152,12 @@ This section will list the DSA topics I've covered, along with links to the corr
     - Bubble
     - Selection
     - Insertion 
+    - merge
+    - sort
 - String
+- Recursion
+- Linked list
+
 
 
 
