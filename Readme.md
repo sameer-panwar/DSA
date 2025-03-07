@@ -140,6 +140,10 @@ B
 - deletion in Linked list
 - reverse a linkded list
 
+### Day 26: 2025-03-07
+- learn Floyeds algorithm
+- Implemented Doubly linked list
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
@@ -157,7 +161,8 @@ This section will list the DSA topics I've covered, along with links to the corr
 - String
 - Recursion
 - Linked list
-
+    - Singly Linked List
+    - Doubly Linked List
 
 
 
