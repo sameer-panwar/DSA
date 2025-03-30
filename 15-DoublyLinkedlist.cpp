@@ -90,7 +90,7 @@ int main(){
 
     node* head=NULL;
     insertionAtLast(head, 3);
-    insertionAtLast(head, 4);
+    insertionAtLast(head, 4)
     display(head);
     insertionAtStart(head, 2);
     insertionAtStart(head, 1);
