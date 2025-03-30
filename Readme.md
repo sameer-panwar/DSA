@@ -144,6 +144,10 @@ B
 - learn Floyeds algorithm
 - Implemented Doubly linked list
 
+### Day 27: 2025-03-22
+- solved a medium type question on array
+- subset of array
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
