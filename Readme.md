@@ -148,6 +148,19 @@ B
 - solved a medium type question on array
 - subset of array
 
+### Day 28: 2025-03-30
+- solved a midium type question on string
+- learned Stack and implemented stack.
+- reverse a string using stack.
+
+### Day 29: 2025-03-31
+- Reverse a stack
+- learned about Infix, Prefix and Postfix
+
+
+
+
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
