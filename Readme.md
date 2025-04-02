@@ -157,7 +157,11 @@ B
 - Reverse a stack
 - learned about Infix, Prefix and Postfix
 
+### Day 30: 2025-04-01
+- Solved a medium type question (reverse words in a string).
 
+### Day 31: 2025-04-02
+- implemented Infix and postfix expression.
 
 
 
