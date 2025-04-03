@@ -163,6 +163,10 @@ B
 ### Day 31: 2025-04-02
 - implemented Infix and postfix expression.
 
+### Day 32: 2025-04-03
+- Solved a medium type array question(4Sum)
+
+
 
 
 ## Topics Covered
