@@ -166,8 +166,9 @@ B
 ### Day 32: 2025-04-03
 - Solved a medium type array question(4Sum)
 
-
-
+### Day 33: 2025-04-04
+- Solved a easy type question on string.
+- solved two medium type question on linkedlist and string.
 
 ## Topics Covered
 
@@ -188,6 +189,10 @@ This section will list the DSA topics I've covered, along with links to the corr
 - Linked list
     - Singly Linked List
     - Doubly Linked List
+    - Circular Linked List
+- Stack
+    - Prefix/Postfix Evaluation.
+    - InfixToPostfix/InfixToPrefix.
 
 
 
