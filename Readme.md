@@ -170,6 +170,10 @@ B
 - Solved a easy type question on string.
 - solved two medium type question on linkedlist and string.
 
+### Day 33: 2025-04-05
+- implemented Infixto prefix and Infix to postfix expression.
+- Solved two medium type question.
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
