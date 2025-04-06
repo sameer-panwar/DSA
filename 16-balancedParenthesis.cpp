@@ -5,16 +5,46 @@ using namespace std;
 
 bool balParenthesis(string s){
     stack<char> st;
-    st.push(s[0]);
-    for(int i=1; i<s.length(); i++){
-        if(s[i] != st.top()){
+    int n=s.length();
+
+    for(int i=0; i<n; i++){
+        if(s[i] == '{' || s[i] == '['  || s[i] == '('){
             st.push(s[i]);
-        }else{
-            st.pop();
+        }else if(s[i] == '}'){
+            if(st.top() == '{'){
+                st.pop();
+            }else{
+                return false;
+            }
+        }else if(s[i] == ']'){
+            if(st.top() == '['){
+                st.pop();
+            }else{
+                return false;
+            }
+        }else if(s[i] == ')'){
+            if(st.top() == '('){
+                st.pop();
+            }else{
+                return false;
+            }
         }
+
     }
 
-    return st.empty();
+    if(!st.empty()){
+        return false;
+    }
+
+    return true;
+}
+
+void check(bool val){
+    if(val == 1){
+        cout<<"Valid string"<<endl;
+    }else{
+        cout<<"Invalid String"<<endl;
+    }
 }
 
 int main(){
@@ -22,7 +52,7 @@ int main(){
     string s1= "{[()]}";
     string s2= "{([]})";
 
-    cout<<balParenthesis(s1)<<endl;
-    cout<<balParenthesis(s2)<<endl;
+    check(balParenthesis(s1));
+    check(balParenthesis(s2));
     return 0;
 }
