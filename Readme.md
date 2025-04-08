@@ -174,6 +174,18 @@ B
 - implemented Infixto prefix and Infix to postfix expression.
 - Solved two medium type question.
 
+### Day 34: 2025-04-06
+- implemented balanced parenthesis in stack to check if string is valid or not. {[()]} is a valid expression.
+- Learned and implemented queue with array.
+
+### Day 35: 2025-04-07
+- implemented queue with Linked list.
+- *I have to learned Queue with stack later. REMEMBER
+
+## Day 36: 2025-04-08
+- solved a easy type question on string.
+- 
+
 ## Topics Covered
 
 This section will list the DSA topics I've covered, along with links to the corresponding code files.
