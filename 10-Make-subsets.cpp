@@ -1,21 +1,28 @@
 
 #include<iostream>
+#include<vector>
 using namespace std;
 
-int subsets(int arr[], int n){
+vector<int> subsets(vector<int> arr, int n){
+    vector<vector<int>> ans;
     for(int i=0; i<(1<<n); i++){
+        vector<int> temp;
         for(int j=0; j<n; j++){
             if( i & (1<<j)){
-                cout<<arr[j]<<" ";
+                temp.push_back(arr[j]);
             }
         }
-        cout<<endl;
+        ans.push_back(temp);
     }
+    return ans;
 }
 
 int main(){
-    int arr[3]={1,2,3};
+    vector <int> arr={1,2,3};
     int n=3;
-    subsets(arr, n);
+    vector<vector<int>> ans =subsets(arr, n);
+    for(auto i:ans){
+        cout<<i<<endl;
+    }
     return 0;
 }
