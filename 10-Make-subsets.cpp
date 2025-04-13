@@ -21,8 +21,11 @@ int main(){
     vector <int> arr={1,2,3};
     int n=3;
     vector<vector<int>> ans =subsets(arr, n);
-    for(auto i:ans){
-        cout<<i<<endl;
+    for(int i=0; i<ans; i++){
+        for(int j=0; j<ans[i].size(); i++){
+            cout<<ans[i][j]<<" ";
+        }
+        cout<<endl;
     }
     return 0;
 }
